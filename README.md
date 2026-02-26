@@ -61,54 +61,6 @@ Tuyệt vời! Tôi đã cập nhật file `README.md` với thông tin **Apache
 | **Kết nối CSDL** | JDBC | - |
 | **Báo cáo** | JasperReports / Excel | - |
 
-## 📁 Cấu trúc thư mục
-
-```
-DuAnPhanMemQuanLyVaBanHangQuanCaPhe/
-├── src/
-│   ├── quanlycaphe/
-│   │   ├── view/              # Giao diện Swing (JFrame, JDialog)
-│   │   │   ├── LoginJFrame.java
-│   │   │   ├── MainJFrame.java
-│   │   │   ├── BanJPanel.java
-│   │   │   ├── ThucDonJPanel.java
-│   │   │   ├── HoaDonJPanel.java
-│   │   │   ├── NhanVienJPanel.java
-│   │   │   ├── KhoJPanel.java
-│   │   │   ├── ThongKeJPanel.java
-│   │   │   └── ...
-│   │   ├── controller/        # Xử lý nghiệp vụ
-│   │   │   ├── BanController.java
-│   │   │   ├── HoaDonController.java
-│   │   │   └── ...
-│   │   ├── model/             # Các đối tượng (POJO)
-│   │   │   ├── Ban.java
-│   │   │   ├── Mon.java
-│   │   │   ├── NhanVien.java
-│   │   │   ├── HoaDon.java
-│   │   │   ├── ChiTietHoaDon.java
-│   │   │   └── ...
-│   │   ├── dao/               # Data Access Object - kết nối SQL Server
-│   │   │   ├── DatabaseConnection.java
-│   │   │   ├── BanDAO.java
-│   │   │   ├── MonDAO.java
-│   │   │   └── ...
-│   │   └── utils/             # Các tiện ích
-│   │       ├── FormatNumber.java
-│   │       ├── DateUtils.java
-│   │       ├── ExcelExporter.java
-│   │       └── ...
-├── nbproject/                  # Cấu hình dự án NetBeans
-├── database/
-│   ├── script.sql             # Script tạo CSDL
-│   └── data_sample.sql         # Dữ liệu mẫu
-├── lib/                        # Thư viện JAR bên ngoài (nếu có)
-├── reports/                    # Mẫu báo cáo (JasperReports)
-├── build.xml                   # Ant build script
-├── manifest.mf                 # Manifest file
-└── README.md
-```
-
 ## 🚀 Hướng dẫn cài đặt chi tiết
 
 ### Yêu cầu hệ thống
