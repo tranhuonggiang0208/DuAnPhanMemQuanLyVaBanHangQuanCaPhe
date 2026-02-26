@@ -1,5 +1,5 @@
 ---
-# Phần Mềm Quản Lý & Bán Hàng Quán Cà Phê
+Phần Mềm Quản Lý & Bán Hàng Quán Cà Phê
 ## Giới thiệu
 Đồ án môn học xây dựng hệ thống quản lý và bán hàng cho quán cà phê bằng Java Swing, sử dụng SQL Server để lưu trữ dữ liệu.
 ## Công nghệ sử dụng
