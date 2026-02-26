@@ -18,14 +18,15 @@
 * Quản lý ưu đãi
 * Thống kê doanh thu
 ## Hướng dẫn chạy dự án
-1. Clone project: git clone https://github.com/tranhuonggiang0208/DuAnPhanMemQuanLyVaBanHangQuanCaPhe.git
-2. Tạo database `QuanLyQuanCaPhe` trong SQL Server
-3. Chạy file `script.sql`
-4. Cấu hình lại thông tin kết nối trong `DatabaseConnection.java`
-5. Mở project bằng NetBeans 25 và nhấn Run (F6)
+1. Clone project:
+   git clone https://github.com/tranhuonggiang0208/DuAnPhanMemQuanLyVaBanHangQuanCaPhe.git
+3. Tạo database `QuanLyQuanCaPhe` trong SQL Server
+4. Chạy file `script.sql`
+5. Cấu hình lại thông tin kết nối trong `DatabaseConnection.java`
+6. Mở project bằng NetBeans 25 và nhấn Run (F6)
 ## Tác giả
 Trần Hương Giang
-Cao đẳng FPT Polytechnic
-GitHub: [https://github.com/tranhuonggiang0208](https://github.com/tranhuonggiang0208)
-Email: [giangthth005801@gmail.com](mailto:giangthth005801@gmail.com)
+Trường: Cao đẳng FPT Polytechnic
+GitHub: https://github.com/tranhuonggiang0208
+Email: giangthth005801@gmail.com
 ---
